@@ -8,4 +8,6 @@ public class HomePage {
 
     // some change
 
+    // more things
+
 }
