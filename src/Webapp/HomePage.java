@@ -10,4 +10,9 @@ public class HomePage {
 
     // more things
 
+
+    // add more ythings
+
+    // photo
+
 }
