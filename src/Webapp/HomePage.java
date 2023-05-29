@@ -11,7 +11,7 @@ public class HomePage {
     // more things
 
 
-    // add more ythings
+    // add more things
 
     // photo
 
